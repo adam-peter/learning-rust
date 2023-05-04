@@ -1,0 +1,1 @@
+/Users/badmood111/Desktop/rust/half_hour_rust/target/debug/A_half_hour_rust: /Users/badmood111/Desktop/rust/half_hour_rust/src/main.rs
