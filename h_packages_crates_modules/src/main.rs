@@ -1,6 +1,7 @@
 fn main() {
     let test = "test";
     println!("{}", remove_char(test));
+    println!(":D");
 }
 
 fn remove_char(s: &str) -> String {
